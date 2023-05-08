@@ -33705,7 +33705,7 @@ o=A.lY("And'I am a Flutter Developer and a beginnner\n with passionated about th
 n=A.eX(k,20,k)
 m=A.a7F(B.zU,B.E8,24)
 l=A.lY("Get Connected",k,k,k)
-return new A.ud(new A.q5(new A.eT(B.zB,h,k),0,B.li,60,new A.IK(90,k,1/0,90),90,k),new A.Ea(new A.aU(130,60,100,0),A.a7k(A.a([A.DE(A.a([A.a7k(A.a([s,r,q,p,o,n,new A.GL(new A.RS(),k,k,k,k,B.A,k,!1,k,new A.GM(l,m,k),k)],i),B.eG,B.cl),new A.yH(new A.mI("images/me.jpg",k,k),j.b*0.15,k),A.eX(k,k,30),new A.eT(B.zy,A.a7k(A.a([A.rs(k,A.a7F(B.zT,k,30),k,new A.RT(),k),A.rs(k,A.ab_("images/giti.png"),k,new A.RU(),k),A.rs(k,A.ab_("images/in.png"),k,new A.RV(),k)],i),B.ll,B.cl),k)],i),B.bs,B.DH,B.cm),A.eX(k,220,k),A.DE(A.a([A.a7w(A.aaz(B.j,2),1),A.lY("Developed by @ Irig",k,k,k),A.a7w(A.aaz(B.j,2),1)],i),B.bs,B.r0,B.cm)],i),B.bs,B.cl),k),B.li,k)}}
+return new A.ud(new A.q5(new A.eT(B.zB,h,k),0,B.li,60,new A.IK(90,k,1/0,90),90,k),new A.Ea(new A.aU(130,60,100,0),A.a7k(A.a([A.DE(A.a([A.a7k(A.a([s,r,q,p,o,n,new A.GL(new A.RS(),k,k,k,k,B.A,k,!1,k,new A.GM(l,m,k),k)],i),B.eG,B.cl),new A.yH(new A.mI("images/umesh.jpg",k,k),j.b*0.15,k),A.eX(k,k,30),new A.eT(B.zy,A.a7k(A.a([A.rs(k,A.a7F(B.zT,k,30),k,new A.RT(),k),A.rs(k,A.ab_("images/giti.png"),k,new A.RU(),k),A.rs(k,A.ab_("images/in.png"),k,new A.RV(),k)],i),B.ll,B.cl),k)],i),B.bs,B.DH,B.cm),A.eX(k,270,k),A.DE(A.a([A.a7w(A.aaz(B.j,2),1),A.lY("Developed by @ Irig",k,k,k),A.a7w(A.aaz(B.j,2),1)],i),B.bs,B.r0,B.cm)],i),B.bs,B.cl),k),B.li,k)}}
 A.RW.prototype={
 $1(a){return a.W(t.w).f.a.a>=600},
 $S:69}
